@@ -1,3 +1,3 @@
-# Javascript & JQuery Tutorial
+# Javascript & jQuery Tutorial
 
 This repository contains example code from _Javascript & JQuery_ by Jon Duckett.
